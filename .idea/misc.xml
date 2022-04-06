@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/bg.xml" value="0.19074074074074074" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/bg_mic.xml" value="0.19074074074074074" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/bg_shape.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/colorbackground.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/edittext_background_t2s.xml" value="0.20855855855855857" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/forget_email.xml" value="0.20855855855855857" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/forgot_btn.xml" value="0.20855855855855857" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_add.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_attendance_recap.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_bg_topheader.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_course_book.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_course_plan.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_course_schedule.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_gpa_reult.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_photo_user.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/ic_profile.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/icon_bg.xml" value="0.24114583333333334" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/login_btn.xml" value="0.23646578140960164" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/rounded_edittext.xml" value="0.23646578140960164" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/view_bottom.xml" value="0.23646578140960164" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/drawable/view_top.xml" value="0.23646578140960164" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_about_us.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_dashboard.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_forgot.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_login.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_profile.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_registration.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_s2_tactivity.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_setting.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_sign_up.xml" value="0.19099099099099098" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_splash.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/activity_t2_sactivity.xml" value="0.22083333333333333" />
+        <entry key="..\:/VoiceRecognisation2/app/src/main/res/layout/my_list.xml" value="0.22083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

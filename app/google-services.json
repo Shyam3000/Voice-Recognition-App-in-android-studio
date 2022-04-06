@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841010575187",
+    "project_id": "voicerec-14188",
+    "storage_bucket": "voicerec-14188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841010575187:android:f0589cbfe6829f597e93a6",
+        "android_client_info": {
+          "package_name": "com.example.voicerecognisation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841010575187-balonp5pqd9v3apdneifbga0v1108u3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voicerecognisation",
+            "certificate_hash": "9eddd432e633447bfba8950e21579761c91e090f"
+          }
+        },
+        {
+          "client_id": "841010575187-nhktd295rbfr88n2qoub9ninvimc6d04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7VvGF_MV4JHYFa3TvRnMomJxCRxbh9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841010575187-nhktd295rbfr88n2qoub9ninvimc6d04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
